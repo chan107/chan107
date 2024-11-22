@@ -40,7 +40,7 @@ A hobby I've been into lately.
  
 [![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)](https://github.com/chan107)
 
-![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white)(mailto:min0505924l@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:min050924@gmail.com)
 
 
 ![Discord](https://img.shields.io/discord/1191237524853641319)
