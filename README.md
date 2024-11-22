@@ -21,8 +21,11 @@
 <h3>
 
  cooking🧑🏻‍🍳
- <a href="https://www.youtube.com/shorts/Wo0smJajSuM">
+ <a href="https://www.youtube.com/@notorious_foodie">
 A hobby I've been into lately.
+<h4>
+  This is the YouTube channel I refer to a lot.
+</h4>
  
 
 <img src="https://yt3.googleusercontent.com/ytc/AIdro_mjPOB8h-cMEZq3ctWbl3AHfCcNiO_vgr5Gym-NJAlDXJ4=s900-c-k-c0x00ffffff-no-rj" height="100px"/> </a>
@@ -37,7 +40,7 @@ A hobby I've been into lately.
  
 [![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)](https://github.com/chan107)
 
-![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white)(min0505924l@gmail.com)
+![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white)(mailto:min0505924l@gmail.com)
 
 
 ![Discord](https://img.shields.io/discord/1191237524853641319)
