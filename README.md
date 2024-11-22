@@ -2,12 +2,24 @@
 
 <h1> Hi, I'm choi min chan 🙋🏻<img src="https://external-preview.redd.it/b3nJgB6P89t7Zdj0CiGdcn4v9MSC8RyPInxynuF26Ew.jpg?auto=webp&s=8211fa47b30c570dd7ab8a238989af87d6dd8893" height="180"></h1>
 <h3>
-  I am a first-year student at Chung-Ang University.
+  I am a first-year student at Chung-Ang University. 🎓
+  
+  Here's my phone number : 010-9069-2728 📞
+
 </h3>
+<h2> Contact me here-! 🤙🏻 </h2>
+ 
+[![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)](https://github.com/chan107)
+
+[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:min050924@gmail.com)
+
+
+[![Discord](https://img.shields.io/discord/1191237524853641319?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/m3rjgYuh)
+
 <p>
   <em>
     <h2>
-      interest🧐
+      interest 🧐
     </h2>
    <h3>
     dig music🎶
@@ -20,7 +32,7 @@
 <em>
 <h3>
 
- cooking🧑🏻‍🍳
+ cooking 🧑🏻‍🍳
  <a href="https://www.youtube.com/@notorious_foodie">
 A hobby I've been into lately.
 <h4>
@@ -34,29 +46,73 @@ A hobby I've been into lately.
 </em>
 </p>
 
+
 <h2>
-  Personal Development Goals✌🏻
+ projects I have worked on 💻 
+</h2>
+<h3>
+  <a href="https://www.tiktok.com/@hunmin0209?is_from_webapp=1&sender_device=pc">
+    Creating AR filters using Effect House 🤓
+    
+    
+  
+>>> If you click, it will take you to my account where you can view the filters I created.
+>>>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnzB1xr0ZFTFxYuDse9TSOMZiUwGJ1w3ZSmA&s" height="100px"/> </a>
+    
+>>> 
+This project involved creating my own makeup filters, space distortion filters, art filters, game filters, etc., using the features provided by Effect House. It was a competition where I could freely create filters without any limitations on the number of creations for a certain period, and awards were given to the team with the highest views.
+
+I finished the competition in 3rd place.
+
+
+
+ 
+</h3>
+
+<h2>
+  Personal Development Goals ✌🏻
 </h2>
 <h3>
   <a href="https://www.youtube.com/watch?v=F8bsJsGXYq0">
-  I am interested in video production. someday, I hope to be involved in directing a great drama🎬
+  1) The kind of drama I consider good is one that draws the viewers into a state of complete immersion. To achieve this, the creator must never plan any scene carelessly and should be able to connect all the scenes like a spiderweb. As someone who dreams of becoming a drama director, I hope to develop these skills and become a great director in the future. 🎬
     
     
-  <img src="https://i.namu.wiki/i/OtTlXKB2dywodvTELRkJ147Ox5QE3Um9WzCB6gU07QxIwGMfeoBUA_YNxieUFaA1A7cc_rVvvbpePeB1yH6dOg.webp" height="200px"/> </a>
+  
+  
+  <img src="https://upload.wikimedia.org/wikipedia/en/0/0b/House_of_Cards_season_1.png" height="200px"/> </a>
 </h3>
 <br />
-<h2> Contact me here-!🤙🏻 </h2>
- 
-[![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)](https://github.com/chan107)
 
-[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:min050924@gmail.com)
+<h3>
+ 2) I am also very interested in music, and although I am still inexperienced, I have been studying composition little by little. Due to some practical challenges, it was difficult to focus on music this year, but next year, I want to challenge my dreams with friends who share the same passion for music.
 
 
-[![Discord](https://img.shields.io/discord/1191237524853641319?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/m3rjgYuh)
+  <img src="https://i.scdn.co/image/ab67616d00001e027005885df706891a3c182a57" height="200px"/> </a>
+</h3>
+
+<br />
+<h2> My tech stack 📚 </h2>
+
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style-for-the-badge&logo=python&logoColor=ffffff)
+![C++](https://img.shields.io/badge/-C++-00599C?style-for-the-badge&logo=c%2B%2B&logoColor=ffffff)
+![Maya](https://img.shields.io/badge/-Maya-000000?style-for-the-badge&logo=autodesk&logoColor=ffffff)
 
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=chan107)](https://github.com/anuraghazra/github-readme-stats)
+
+
+<h2>
+  Let's work together! 🫶🏻
+
+If you're interested in collaborating on any of my projects or have ideas to share, feel free to reach out. I’m always open to new collaborations and would love to connect with others who are passionate about tech!
+
+
+</h2>
+
+
+
 ![GitHub Sponsors](https://img.shields.io/github/sponsors/chan107)
 ![GitHub followers](https://img.shields.io/github/followers/chan107)
 
