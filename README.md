@@ -56,7 +56,7 @@ A hobby I've been into lately.
 
 
 
-
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=chan107)](https://github.com/anuraghazra/github-readme-stats)
 ![GitHub Sponsors](https://img.shields.io/github/sponsors/chan107)
 ![GitHub followers](https://img.shields.io/github/followers/chan107)
 
