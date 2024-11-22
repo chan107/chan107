@@ -116,6 +116,10 @@ If you're interested in collaborating on any of my projects or have ideas to sha
 
 
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=chan107&show_icons=true&theme=radical)
+![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=chan107&theme=radical)
+
+
 ![GitHub Sponsors](https://img.shields.io/github/sponsors/chan107)
 ![GitHub followers](https://img.shields.io/github/followers/chan107)
 
