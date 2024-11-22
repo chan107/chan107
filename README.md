@@ -34,16 +34,26 @@ A hobby I've been into lately.
 </em>
 </p>
 
-
+<h2>
+  Personal Development Goals✌🏻
+</h2>
+<h3>
+  <a href="https://www.youtube.com/watch?v=F8bsJsGXYq0">
+  I am interested in video production. someday, I hope to be involved in directing a great drama🎬
+    
+    
+  <img src="https://i.namu.wiki/i/OtTlXKB2dywodvTELRkJ147Ox5QE3Um9WzCB6gU07QxIwGMfeoBUA_YNxieUFaA1A7cc_rVvvbpePeB1yH6dOg.webp" height="200px"/> </a>
+</h3>
 <br />
-<h2> My tech stack📚 </h2>
+<h2> Contact me here-!🤙🏻 </h2>
  
 [![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)](https://github.com/chan107)
 
 [![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:min050924@gmail.com)
 
 
-![Discord](https://img.shields.io/discord/1191237524853641319)
+[![Discord](https://img.shields.io/discord/1191237524853641319?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/m3rjgYuh)
+
 
 
 
