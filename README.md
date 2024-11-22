@@ -1,6 +1,6 @@
 <img align="right" src="https://www.cau.ac.kr/cau/img/about/ui1_a_1.png" width="300"/> 
 
-<h1> Hi, I'm choi min chan <img src="https://external-preview.redd.it/b3nJgB6P89t7Zdj0CiGdcn4v9MSC8RyPInxynuF26Ew.jpg?auto=webp&s=8211fa47b30c570dd7ab8a238989af87d6dd8893" height="180"></h1>
+<h1> Hi, I'm choi min chan 🙋🏻<img src="https://external-preview.redd.it/b3nJgB6P89t7Zdj0CiGdcn4v9MSC8RyPInxynuF26Ew.jpg?auto=webp&s=8211fa47b30c570dd7ab8a238989af87d6dd8893" height="180"></h1>
 <h3>
   I am a first-year student at Chung-Ang University.
 </h3>
