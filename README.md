@@ -1,6 +1,9 @@
 <img align="right" src="https://www.cau.ac.kr/cau/img/about/ui1_a_1.png" width="300"/> 
 
-<h1> Hi, I'm choi min chan 🙋🏻<img src="https://external-preview.redd.it/b3nJgB6P89t7Zdj0CiGdcn4v9MSC8RyPInxynuF26Ew.jpg?auto=webp&s=8211fa47b30c570dd7ab8a238989af87d6dd8893" height="180"></h1>
+
+
+
+<h1> Hi, I'm choi min chan 🙋🏻
 <h3>
   I am a first-year student at Chung-Ang University. 🎓
   
@@ -21,17 +24,15 @@
       interest 🧐
     </h2>
    <h3>
-    dig music🎶
-      <a href="https://www.youtube.com/watch?v=p38xW-IjvOc">
-       brockhampton - summer  <img src="https://i1.sndcdn.com/artworks-000306241173-oeq6eq-t500x500.jpg" height="200px" />
-  
-     The song is Summer by Brockhampton. I really love this song because I’m a big fan of the electric guitar sound.
-  </h3>
- </em>
-<em>
-<h3>
+<h3>dig music 🎶</h3>
+<a href="https://www.youtube.com/watch?v=p38xW-IjvOc">
+  brockhampton - summer
+</a>
+<br>
+<img src="https://i1.sndcdn.com/artworks-000306241173-oeq6eq-t500x500.jpg" height="200px" />
 
- cooking 🧑🏻‍🍳
+
+ <h3>cooking 🧑🏻‍🍳</h3>
  <a href="https://www.youtube.com/@notorious_foodie">
 A hobby I've been into lately.
 <h4>
@@ -60,9 +61,8 @@ A hobby I've been into lately.
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnzB1xr0ZFTFxYuDse9TSOMZiUwGJ1w3ZSmA&s" height="100px"/> </a>
     
 >>> 
-This project involved creating my own makeup filters, space distortion filters, art filters, game filters, etc., using the features provided by Effect House. It was a competition where I could freely create filters without any limitations on the number of creations for a certain period, and awards were given to the team with the highest views.
+I created various makeup, space distortion, art, and game filters using Effect House for a competition. The challenge allowed unlimited creations within a set period, with awards given to the team with the highest views.
 
-I finished the competition in 3rd place.
 
 
 
@@ -74,7 +74,14 @@ I finished the competition in 3rd place.
 </h2>
 <h3>
   <a href="https://www.youtube.com/watch?v=F8bsJsGXYq0">
-  1) The kind of drama I consider good is one that draws the viewers into a state of complete immersion. To achieve this, the creator must never plan any scene carelessly and should be able to connect all the scenes like a spiderweb. As someone who dreams of becoming a drama director, I hope to develop these skills and become a great director in the future. 🎬
+
+
+    
+
+
+
+
+  1)A good drama immerses viewers with every scene carefully planned and interconnected. As an aspiring director, I aim to develop these skills and succeed in the future.
     
     
   
@@ -87,7 +94,7 @@ I finished the competition in 3rd place.
    <a href="https://www.youtube.com/watch?v=HmAsUQEFYGI">
 
      
- 2) I am also very interested in music, and although I am still inexperienced, I have been studying composition little by little. Due to some practical challenges, it was difficult to focus on music this year, but next year, I want to challenge my dreams with friends who share the same passion for music.
+ 2) I'm passionate about music and studying composition. Despite challenges this year, I plan to pursue my dreams with like-minded friends next year.
 
 
   <img src="https://i.scdn.co/image/ab67616d00001e027005885df706891a3c182a57" height="200px"/> </a>
@@ -100,6 +107,8 @@ I finished the competition in 3rd place.
 ![Python](https://img.shields.io/badge/-Python-3776AB?style-for-the-badge&logo=python&logoColor=ffffff)
 ![C++](https://img.shields.io/badge/-C++-00599C?style-for-the-badge&logo=c%2B%2B&logoColor=ffffff)
 ![Maya](https://img.shields.io/badge/-Maya-000000?style-for-the-badge&logo=autodesk&logoColor=ffffff)
+![Logic Pro](https://img.shields.io/badge/-Logic%20Pro-A8B9CC?style-for-the-badge&logo=apple&logoColor=ffffff)
+![Premiere Pro](https://img.shields.io/badge/-Premiere%20Pro-9999FF?style-for-the-badge&logo=adobe-premiere-pro&logoColor=ffffff)
 
 
 
@@ -108,7 +117,7 @@ I finished the competition in 3rd place.
 <h2>
   Let's work together! 🫶🏻
 
-If you're interested in collaborating on any of my projects or have ideas to share, feel free to reach out. I’m always open to new collaborations and would love to connect with others who are passionate about tech!
+Feel free to reach out if you're interested in collaborating or sharing ideas. I'm always open to new projects and love connecting with fellow tech enthusiasts!
 
 
 </h2>
