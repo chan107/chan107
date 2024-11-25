@@ -4,7 +4,6 @@
 <h3>
   I am a first-year student at Chung-Ang University. 🎓
   
-  Here's my phone number : 010-9069-2728 📞
 
 </h3>
 <h2> Contact me here-! 🤙🏻 </h2>
