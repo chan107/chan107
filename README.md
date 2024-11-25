@@ -61,9 +61,6 @@ A hobby I've been into lately.
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnzB1xr0ZFTFxYuDse9TSOMZiUwGJ1w3ZSmA&s" height="100px"/> </a>
     
 >>> 
-I created various makeup, space distortion, art, and game filters using Effect House for a competition. The challenge allowed unlimited creations within a set period, with awards given to the team with the highest views.
-
-
 
 
  
